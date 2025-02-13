@@ -5,6 +5,6 @@ Exploratory programming environment and documentation generator.
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/melisgl/mgl-pax.git |
-| commit  | 1b733d1                                    |
+| commit  | 5681d13                                    |
 | systems | mgl-pax mgl-pax.asdf                       |
 |---------+--------------------------------------------|
